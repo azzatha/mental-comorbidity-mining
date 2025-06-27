@@ -14,7 +14,7 @@ This project explores how data mining techniques can uncover comorbidity pattern
 > 🔒 Original UK Biobank data is not shared due to license restrictions.
 
 ## 📁 Repo Contents
-- `notebooks/`: Jupyter notebooks for each method
+- `scripts/`: scripts for each method
 - `data/`: Cleaned sample data and outputs
 - `figures/`: Key visualizations used in poster
 - `requirements.txt`: Dependencies
