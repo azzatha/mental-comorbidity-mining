@@ -1,0 +1,223 @@
+
+1: Brain Diseases
+Pathologic conditions affecting the BRAIN, which is composed of the intracranial 
+components of the CENTRAL NERVOUS SYSTEM. This includes (but is not limited to)
+the CEREBRAL CORTEX; intracranial white matter; BASAL GANGLIA; THALAMUS;
+HYPOTHALAMUS; BRAIN STEM; and CEREBELLUM.
+
+Subheadings:
+    abnormalities
+    adverse effects
+    analysis
+    anatomy and histology
+    blood
+    blood supply
+    cerebrospinal fluid
+    chemical synthesis
+    chemically induced
+    chemistry
+    classification
+    complications
+    congenital
+    cytology
+    diagnosis
+    diagnostic imaging
+    diet therapy
+    drug effects
+    drug therapy
+    economics
+    education
+    embryology
+    enzymology
+    epidemiology
+    ethnology
+    etiology
+    genetics
+    history
+    immunology
+    injuries
+    isolation and purification
+    legislation and jurisprudence
+    metabolism
+    microbiology
+    mortality
+    nursing
+    organization and administration
+    parasitology
+    pathogenicity
+    pathology
+    pharmacology
+    physiology
+    physiopathology
+    prevention and control
+    psychology
+    radiotherapy
+    rehabilitation
+    secondary
+    statistics and numerical data
+    surgery
+    therapeutic use
+    therapy
+    toxicity
+    transmission
+    transplantation
+    ultrastructure
+    urine
+    veterinary
+    virology
+
+Tree Number(s): C10.228.140
+Entry Terms:
+    Brain Disease
+    Brain Disorders
+    Brain Disorder
+    Intracranial CNS Disorders
+    Central Nervous System Intracranial Disorders
+    CNS Disorders, Intracranial
+    CNS Disorder, Intracranial
+    Intracranial CNS Disorder
+    Encephalon Diseases
+    Encephalon Disease
+    Intracranial Central Nervous System Disorders
+    Central Nervous System Disorders, Intracranial
+    Encephalopathy
+    Encephalopathies
+
+    All MeSH Categories
+        Diseases Category
+            Nervous System Diseases
+                Central Nervous System Diseases
+                    Brain Diseases
+                        Acute Febrile Encephalopathy
+                        Akinetic Mutism
+                        Amblyopia
+                        Amnesia, Transient Global
+                        Auditory Diseases, Central
+                            Auditory Perceptual Disorders
+                            Hearing Loss, Central
+                        Basal Ganglia Diseases
+                            Basal Ganglia Cerebrovascular Disease +
+                            Chorea Gravidarum
+                            Dystonia Musculorum Deformans
+                            Hepatolenticular Degeneration
+                            Huntington Disease
+                            Meige Syndrome
+                            Multiple System Atrophy +
+                            Neuroleptic Malignant Syndrome
+                            Pantothenate Kinase-Associated Neurodegeneration
+                            Parkinsonian Disorders +
+                            Supranuclear Palsy, Progressive
+                            Tourette Syndrome
+                        Brain Abscess
+                            Toxoplasmosis, Cerebral
+                        Brain Damage, Chronic
+                            Brain Injury, Chronic
+                            Cerebral Palsy
+                            Persistent Vegetative State
+                        Brain Death
+                        Brain Diseases, Metabolic
+                            Brain Diseases, Metabolic, Inborn +
+                            Hepatic Encephalopathy
+                            Kernicterus
+                            Marchiafava-Bignami Disease
+                            Mitochondrial Encephalomyopathies
+                            Myelinolysis, Central Pontine
+                            Reye Syndrome
+                            Wernicke Encephalopathy
+                        Brain Edema
+                        Brain Injuries
+                            Brain Hemorrhage, Traumatic +
+                            Brain Injuries, Diffuse +
+                            Brain Injuries, Traumatic +
+                            Brain Injury, Chronic +
+                            Epilepsy, Post-Traumatic
+                            Pneumocephalus
+                        Brain Neoplasms
+                            Cerebral Ventricle Neoplasms +
+                            Infratentorial Neoplasms +
+                            Neurocytoma
+                            Pinealoma
+                            Supratentorial Neoplasms +
+                        Cerebellar Diseases
+                            Cerebellar Ataxia +
+                            Cerebellar Neoplasms
+                            Dandy-Walker Syndrome
+                            Miller Fisher Syndrome
+                            Paraneoplastic Cerebellar Degeneration
+                            Spinocerebellar Degenerations +
+                        Cerebrovascular Disorders
+                            Basal Ganglia Cerebrovascular Disease +
+                            Brain Ischemia +
+                            Carotid Artery Diseases +
+                            Cerebral Small Vessel Diseases +
+                            Cerebrovascular Trauma +
+                            Dementia, Vascular +
+                            Intracranial Arterial Diseases +
+                            Intracranial Arteriovenous Malformations +
+                            Intracranial Embolism and Thrombosis +
+                            Intracranial Hemorrhages +
+                            Leukomalacia, Periventricular
+                            Sneddon Syndrome
+                            Stroke +
+                            Susac Syndrome
+                            Vascular Headaches
+                            Vasculitis, Central Nervous System +
+                            Vasospasm, Intracranial
+                        Dementia
+                            AIDS Dementia Complex
+                            Alzheimer Disease
+                            Aphasia, Primary Progressive +
+                            Creutzfeldt-Jakob Syndrome
+                            Dementia, Vascular +
+                            Diffuse Neurofibrillary Tangles with Calcification
+                            Frontotemporal Lobar Degeneration +
+                            Huntington Disease
+                            Kluver-Bucy Syndrome
+                            Lewy Body Disease
+                        Diffuse Cerebral Sclerosis of Schilder
+                        Encephalitis
+                            Anti-N-Methyl-D-Aspartate Receptor Encephalitis
+                            Cerebral Ventriculitis
+                            Infectious Encephalitis +
+                            Limbic Encephalitis
+                            Meningoencephalitis +
+                        Encephalomalacia
+                            Leukomalacia, Periventricular
+                        Epilepsy
+                            Drug Resistant Epilepsy
+                            Epilepsies, Partial +
+                            Epilepsy, Benign Neonatal
+                            Epilepsy, Generalized +
+                            Epilepsy, Post-Traumatic
+                            Epilepsy, Reflex
+                            Epileptic Syndromes +
+                        Headache Disorders
+                            Headache Disorders, Primary +
+                            Headache Disorders, Secondary +
+                        Hydrocephalus
+                            Dandy-Walker Syndrome
+                            Hydrocephalus, Normal Pressure
+                        Hypothalamic Diseases
+                            Bardet-Biedl Syndrome
+                            Hypothalamic Neoplasms +
+                            Laurence-Moon Syndrome
+                            Pituitary Diseases +
+                        Hypoxia, Brain
+                            Hypoxia-Ischemia, Brain
+                        Intracranial Hypertension
+                            Hypertensive Encephalopathy +
+                            Pseudotumor Cerebri
+                        Intracranial Hypotension
+                        Leukoencephalopathies
+                            Dementia, Vascular
+                            Demyelinating Autoimmune Diseases, CNS +
+                            Hereditary Central Nervous System Demyelinating Diseases +
+                            Leukoencephalopathy, Progressive Multifocal
+                            Posterior Leukoencephalopathy Syndrome
+                        Neuroaxonal Dystrophies
+                            Pantothenate Kinase-Associated Neurodegeneration
+                        Sepsis-Associated Encephalopathy
+                        Subdural Effusion
+                        Thalamic Diseases
+
+
